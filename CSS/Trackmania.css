@@ -1,0 +1,88 @@
+body{
+	margin: 0;
+	padding: 0;
+	font - size: 16px;
+ }
+
+ #wrapper{
+ 	width: 100%;
+ 	height: 0 auto;
+ }
+
+  #logoImage{
+ 	width: 500px;
+ 	height: 300px;
+ 	display: block;
+ 	margin-left: auto;
+ 	margin-right: auto;
+ }
+
+ #nav{
+ 	width: auto;
+	height: auto;
+ 	background-color: black;
+ }
+ #nav ul{
+ 	margin: 0;
+ 	padding: 0;
+ 	list-style: none;
+ 	margin-left: 90px;
+ 	padding-top: 16px;
+ 	margin-left: 350px;
+ }
+ #nav ul li{
+ 	display: inline;
+ 	margin-top: 30px;
+ }
+ #nav ul li a{
+ 	color: white;
+ 	text-decoration: none;
+ 	padding: 16px 20px;
+ 	padding-bottom: 14px;
+ 	text-align: justify;
+ 	height: auto;
+ }
+#nav ul li a:hover{
+ 	background-color: white;
+ 	color: black;
+ }
+
+ #Main-Content{
+ 	background-color: black;
+	padding: 10px;
+	height: auto;
+}
+
+.text{
+	text-align: justify;
+	margin-left: 10px;
+}
+
+ .Image-for-Content{
+ 	float: right;
+ 	margin-left: 10px;
+ 	margin-top: 25px;
+ }
+
+ #Introduction{
+ 	border: 2px solid;
+ 	background-color: white;
+ }
+
+ #Series{
+ 	border: 2px solid;
+ 	background-color: white;
+ }
+
+ #Extra-Things{
+ 	border: 2px solid;
+ 	background-color: white;
+ }
+
+ .Footer{
+ 	background-color: white;
+ 	border: 2px solid;
+ }
+ .Footer p{
+ 	margin-left: 10px;
+ }
